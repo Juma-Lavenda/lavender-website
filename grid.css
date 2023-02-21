@@ -12,6 +12,7 @@ article.contactMe {
     display: grid;
     grid-template-columns: 80px 1fr 1fr 80px;
     grid-column-gap: 10px;
+    margin: auto;
 }
 .photo{
     grid-column: 3/-1;
